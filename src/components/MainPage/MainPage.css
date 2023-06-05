@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+}
+.main >form{
+    margin-right: 30px;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
